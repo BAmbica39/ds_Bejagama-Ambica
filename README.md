@@ -1,4 +1,4 @@
-# 🔑 Key Findings
+# Key Findings
 
 ## 1. Trade Size vs Market Sentiment
 - Traders place **larger trades during Extreme Greed and Fear phases**, reflecting emotionally driven risk-taking.  
@@ -28,7 +28,7 @@
 
 ---
 
-# 📊 Insights and Patterns
+# Insights and Patterns
 - **Sentiment-driven behavior**: Traders increase trade size in extreme sentiment conditions.  
 - **Volatility risk**: Extreme Fear/Greed create sporadic large outliers but not stable gains.  
 - **Moderate Greed = safer phase**: More reliable environment for steady profitability.  
@@ -38,12 +38,12 @@
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 Traders are **highly influenced by sentiment**, taking bigger risks during **Extreme Fear/Greed**, which results in **volatile outcomes with outliers**.  
 Consistent profits are more likely in **moderate Greed phases**, where emotional extremes are absent.  
 **Sentiment plays a stronger predictive role than trade size**, but correlations are weak, highlighting the complexity of market behavior.  
 
-### 📌 For strategy design:
+### For strategy design:
 - **Favor moderate Greed periods for steady gains**.  
 - **Apply strong risk management** in extreme sentiment phases.  
 - **Combine sentiment with other features** (not just size) to build more effective predictive models.  
